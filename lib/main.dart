@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       Exam(subject: 'Историја', dateTime: DateTime(2025, 10, 21, 12, 0), rooms: ['204']),
       Exam(subject: 'Географија', dateTime: DateTime(2025, 12, 22, 13, 0), rooms: ['205']),
       Exam(subject: 'Биологија', dateTime: DateTime(2025, 11, 03, 10, 0), rooms: ['106']),
-      Exam(subject: 'Филозофија', dateTime: DateTime(2025, 12, 24, 15, 0), rooms: ['302']),
+      Exam(subject: 'Филозофија', dateTime: DateTime(2025, 11, 20, 15, 0), rooms: ['302']),
     ];
 
     return MaterialApp(
